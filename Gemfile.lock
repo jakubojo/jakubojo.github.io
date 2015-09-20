@@ -134,6 +134,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (= 39)
   jekyll-feed
+  jekyll-sitemap
   json
 
 BUNDLED WITH
