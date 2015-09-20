@@ -1,4 +1,8 @@
 ---
-title: Hello, World!
+title: "Hello, World!"
+layout: default
 ---
-#systems aligned with strategy
+systems aligned with strategy
+=============================
+
+
