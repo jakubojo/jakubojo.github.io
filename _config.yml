@@ -3,6 +3,7 @@ description: ""
 url: "www.jakubojo.com"
 tagline: jakubojo LLC provides exceptional consulting services including software development, systems analysis, and business intelligence.
 timezone: UTC
+permalink: pretty
 gems:
   - jekyll-feed
   - jekyll-sitemap
