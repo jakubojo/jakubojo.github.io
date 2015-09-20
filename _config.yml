@@ -1,3 +1,6 @@
+name: "jakubojo"
+description: ""
+url: "www.jakubojo.com"
 timezone: UTC
 gems:
   - jekyll-feed
