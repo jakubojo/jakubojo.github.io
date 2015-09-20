@@ -4,3 +4,4 @@ url: "www.jakubojo.com"
 timezone: UTC
 gems:
   - jekyll-feed
+  - jekyll-sitemap
