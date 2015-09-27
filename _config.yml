@@ -7,3 +7,4 @@ permalink: pretty
 gems:
   - jekyll-feed
   - jekyll-sitemap
+exclude: [bower_components, node_modules, bower.json, package.json, Gruntfile.js]

@@ -1,0 +1,27 @@
+{
+  "name": "jakubojo.github.io",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jakubojo/jakubojo.github.io#readme",
+  "authors": [
+    "jakubojo <jakubojo@users.noreply.github.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakubojo/jakubojo.github.io"
+  },
+  "description": "jakubojo.com",
+  "main": "README.MD",
+  "license": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test"
+  ],
+  "dependencies": {
+    "bootstrap-css-only": "~3.3.5"
+  }
+}
